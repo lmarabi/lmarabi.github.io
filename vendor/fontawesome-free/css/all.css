@@ -3415,6 +3415,10 @@ readers do not read off random characters that represent icons */
 .fa-twitter:before {
   content: "\f099"; }
 
+.fa-gscholar-pub:before {
+  content: "\f099"; }
+
+
 .fa-twitter-square:before {
   content: "\f081"; }
 
