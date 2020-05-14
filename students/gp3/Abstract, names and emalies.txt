@@ -1,0 +1,21 @@
+﻿Abstract: 
+ imprint system well web designed system for querying, analyzing tweets microblogs. Treat tweet microblogs which consider as stream of rich data that carries different types of information. it has three main services: locate hashtag, display trend evolution, Cluster account by their interest. locate hashtag specify location of origin tweet, display trend evolution that describe how trend spread along rang of distance and specify these locations in addition display other information like duration upon these locations, Cluster account by their interest by using text classification determine which the most topics user write about them. And presents the result on a map interface that allows an interactive vision. 
+ Keywords: Twitter, cluster, text classification, tweet.
+
+
+
+
+
+
+
+
+
+
+
+
+names and emalis:
+1- Atheer Alhazmi   :atheeralhazmi1417@gmail.com
+2- Elham Alasmri    :elhammsfer2@gmail.com
+3- Hadeel Alraddadi :hadeel.y.alraddadi@hotmail.com
+4- Layan Alahmadi   :Layan.s.alahmadi@gmail.com
+5- Shahd Alsayed    :shahdEl-sayed@outlook.sa
