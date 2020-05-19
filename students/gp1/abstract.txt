@@ -1,0 +1,14 @@
+ABSTRACT
+
+Traffic congestion or crowds gather in a specific place, as in Hajj motivated Scientists and power agencies to investigate and analyze the movements of organisms.
+Collecting a real dataset is a hard task as it takes a significant amount of time and effort.
+Unfortunately, the cost of acquiring such datasets is very high. For example: the GeoLife, project lead by Microsoft Research spent three years to get the track movement from 182 users.
+Our system Crowd Movement Management (CMM) will make virtual crowds on Ascii maps .
+Our system CMM will aim to simulate virtual crowds by taking the user specified regionan either Al-Haram in Makka or Al-Haram in Al-Madina or just Al-kabaa region and generate crowd data in one of thiss region.
+And also CMM site provide to user to make visolization in openstreetmap on Al-Haram in Makka region .
+our system will provide an easy-to-use web interface to user to generate the crowd datasets according to controller-bar (to change number of crowd) that user will choose it, anyone will be able to use the system, for example: researchers and authorities responsible for crowd control, organizations and associations.
+The program consists of two main components:
+1. The crowd movement grentor in three diffrente specified regionan either Al-Haram in Makka or Al-Haram in Al-Madina or just Al-kabaa region.
+2. visulazation with OSM .
+Therefore, researchers and field experts will not need to spend their time to generating this crowd by a complicated tools to the normal user Instead, they will focus on their main research.
+Keywords: crowd movement, virtual simulation, data, generation, development.
